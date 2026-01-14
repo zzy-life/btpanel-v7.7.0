@@ -10,7 +10,7 @@ curl -sSO https://raw.githubusercontent.com/8838/btpanel-v7.7.0/main/install/ins
 **备用安装链接，适用于不能访问GitHub的服务器。文件公开存放在[d.moe.ms](http://d.moe.ms/?btpanel-v7.7.0)**
 
 ```
-curl -sSO -O http://d.moe.ms/AAAAA/btpanel-v7.7.0/install/install_panel.sh && bash install_panel.sh
+curl -sSL -O http://d.moe.ms/AAAAA/btpanel-v7.7.0/install/install_panel.sh && bash install_panel.sh
 ```
 
 # 手动破解：
